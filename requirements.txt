@@ -1,7 +1,7 @@
 motor
 numpy
 Pillow
-yt-dlp
+bs4
 aiohttp
 hachoir
 olefile
@@ -14,4 +14,4 @@ tldextract
 beautifulsoup4
 pyrogram==1.4.12
 user_agent
-bs4
+
